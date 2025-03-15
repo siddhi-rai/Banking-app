@@ -1,7 +1,7 @@
 XNL Banking App
 
 Overview
-XNL Banking App is a prototype mobile banking application built using Flutter. It provides users with a simple interface to manage transactions, view their balance, and perform basic banking operations. This project was developed as part of an assessment task within a constrained 24-hour deadline.
+XNL Banking App is a prototype mobile banking application built using Flutter. It provides users with a simple interface to manage transactions, view their balance, and perform basic banking operations. This project was developed as part of an assessment task within a constrained 36-hour deadline.
 
 Features Implemented
 - Dashboard Screen: Displays the user's balance and a list of transactions.
